@@ -1,1 +1,1 @@
-{\n  "name": "discord-ticket-bot",\n  "version": "1.0.0",\n  "description": "A Discord ticket bot",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "discord.js": "^14.0.0",\n    "dotenv": "^10.0.0"\n  }\n}
+{\n  "name": "bot-discord-ticket",\n  "version": "1.0.0",\n  "description": "A Discord ticket bot.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "discord.js": "^14.0.0",\n    "better-sqlite3": "^7.0.0"\n  },\n  "engines": {\n    "node": ">=16.6.0"\n  }\n}

@@ -1,0 +1,1 @@
+{\n  "name": "discord-ticket-bot",\n  "version": "1.0.0",\n  "description": "A Discord ticket bot",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "discord.js": "^14.0.0",\n    "dotenv": "^10.0.0"\n  }\n}
